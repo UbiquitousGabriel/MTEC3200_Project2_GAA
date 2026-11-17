@@ -50,7 +50,11 @@
 -
 
 ### What they said out loud
-> ""
+_Paraphrased from the session — replace with their exact words if you wrote them down._
+- The choice at the start ("I need help" / "I can help") felt like a **false choice**: both options led to the same place.
+- They thought the design was **ugly**.
+- They **didn't like the circles** as much as I do.
+- They felt it **needs a lot more character**.
 
 ### Did they complete the task?
 - [ ] Yes, without help
@@ -60,6 +64,8 @@
 **Path they took:**
 
 ### Changes I need to make
-| What happened | Change to the design | Screen |
-|---|---|---|
-| | | |
+| What happened | Change to the design | Screen | Status |
+|---|---|---|---|
+| Tester called the "I need help" / "I can help" choice a false choice: both went to the same sign-up | Removed the two role buttons. Landing now has one action (Get started) and a short, non-clickable "How it works" list (ask, help, meet up safely). Everyone gets the same account and can both ask and help. | 1 · Landing | ✅ Done — `docs/wireframes/01-landing.png` |
+| Tester found the look ugly and didn't connect with the circles | Revisit the visual direction before hi-fi: test circles as an accent (map, avatars, action buttons) instead of on every element, and get a second opinion from another tester | Visual design (all screens) | To do |
+| Tester said it needs more character | Explore a personality for the brand — e.g. a real app name, an illustration style or mascot, warmer copy, a less generic palette — and compare 2–3 directions with testers | Visual design / brand | To do |
